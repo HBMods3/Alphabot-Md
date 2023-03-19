@@ -31,24 +31,24 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
-global.region = "Buddhist" //bebas
+global.botname = "HBWABot" //namabot kalian
+global.ownername = "Herbert Suantak" //nama kalian
+global.myweb = "https://herbert70.blogspot.com" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@HBMods_Channel" //bebas asal jan hapus
+global.myweb2 = "https://herbert70.blogspot.com" //bebas
+global.email = "herberthmar20@gmail.com" //bebas
+global.region = "India" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.premium = ['918416093656'] //premium user
+global.owner = ["918416093656", "918416093656"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "918416093656" // nomor wa kalian
+global.ownernomerr = "+918416093656" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.thumbGif = 'https://telegra.ph/file/4c19dd395ccd25aa99b83.mp4'
+global.packname = 'Siamted by' //sticker wm ubah
+global.author = 'HBWABot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -119,19 +119,19 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
+global.prefa = ['', '!', '.', '/', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-   group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-   private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+   sukses: '🤗Ka zo ta e...~',
+   admin: 'He cmd hi admin te chauh hman tura siam a ni!',
+   botAdmin: 'Admin a in mi dah chuah in hei chu ka ti thei ang!',
+   owner: 'Hei chu *Herbert-a* chauh hman thei tura siam a ni!',
+   group: 'Hei chu group-ah chuah hman thei tura siam a ni!',
+   private: 'Hei chu private chat-ah chauh hman thei tura siam a ni!',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
-   errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ *Loding*',
-   lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+   errtoimg: 'Gif sticker siam chu tunah rih chuna a la thei lo!',
+   wait: '⏳ *Lo nghawk rawh...*',
+   lockCmd: 'He features hi bot siamtu hian a activate loh a vangin hman thei a ni rih lo!',
    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
